@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=BaiduMap
+Exec=qmlscene %U BaiduMap/Main.qml
+Icon=BaiduMap/BaiduMap.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

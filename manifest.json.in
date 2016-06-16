@@ -1,0 +1,17 @@
+{
+    "name": "baidumap.liu-xiao-guo",
+    "description": "description of BaiduMap",
+    "architecture": "@CLICK_ARCH@",
+    "title": "BaiduMap",
+    "hooks": {
+        "BaiduMap": {
+            "apparmor": "BaiduMap/BaiduMap.apparmor",
+            "desktop":  "BaiduMap/BaiduMap.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
